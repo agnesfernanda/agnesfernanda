@@ -61,10 +61,6 @@ No dia a dia, extraio, trato e valido dados, acompanho KPIs e automatizo relató
 
 ---
 
-
-
----
-
 ## 🎓 Formação
 
 - 🏛️ **Bacharelado em Administração de Empresas**, UNIFESP *(previsão: 2028)*
@@ -77,10 +73,11 @@ No dia a dia, extraio, trato e valido dados, acompanho KPIs e automatizo relató
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=agnesfernanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnesfernanda&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<img height="180" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Detalhes do perfil" />
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" />
 
-<br>
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas" />
+<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários de commits" />
 
 <img src="https://streak-stats.demolab.com?user=agnesfernanda&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 
